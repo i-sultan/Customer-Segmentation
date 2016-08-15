@@ -27,4 +27,4 @@ It is part of a larger database published with the following paper:
 > Abreu, N. (2011). Analise do perfil do cliente Recheio e desenvolvimento de um sistema promocional. Mestrado em Marketing, ISCTE-IUL, Lisbon.
 
 ## Final Report and IPython Notebook
-Final report and IPython notebook are part included in this repository. IPython notebook is straightforward to use, refer to http://cs231n.github.io/ipython-tutorial/ for a quick tutorial.
+Final report and IPython notebook are included in this repository. IPython notebook is straightforward to use, please refer to http://cs231n.github.io/ipython-tutorial/ for a quick tutorial.
