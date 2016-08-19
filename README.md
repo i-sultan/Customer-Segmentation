@@ -1,5 +1,5 @@
 # Customer-Segmentation
-This is a Udacity machine learning nanodegree project deliverable, please use with accordance to Udacity honor code.
+This is a Udacity machine learning nanodegree project deliverable, please use in accordance with Udacity honor code.
 
 ## Project Goals
 1. Implement unsupervised techniques to see what sort of patterns exist among existing customers, and what exactly makes them different.
